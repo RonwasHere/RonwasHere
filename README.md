@@ -6,6 +6,14 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: dm instagram @ronald_kokoo
 
+🏡 [website][website] **|**
+👔 [linkedin][linkedin]
+
+[website]:http://ronaldliansugihart.wixsite.com/ronald
+[linkedin]:http://www.linkedin.com/in/ronald-liansugihartono
+
+
+
 ### Languages and Tools:
 
 
