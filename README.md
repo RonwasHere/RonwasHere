@@ -2,7 +2,7 @@
 
 ## I'm Ronald Liansugihartono
 
-- 🌱 I’m currently learning Flutter and mobile developer
+- 🌱 I’m currently learning Flutter and Software Quality Assurance
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: dm instagram @ronald_kokoo
 
